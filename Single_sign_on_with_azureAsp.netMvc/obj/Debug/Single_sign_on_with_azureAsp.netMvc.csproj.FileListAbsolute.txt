@@ -1,0 +1,208 @@
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.dll.config
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.pdb
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.exe
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.exe.config
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.rsp
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.exe
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.exe.config
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.rsp
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.AppContext.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Console.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.Compression.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Net.Http.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Net.Sockets.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.ValueTuple.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XPath.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.exe
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.exe.config
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.rsp
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\VBCSCompiler.exe
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Antlr3.Runtime.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Logging.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Tokens.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Newtonsoft.Json.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Owin.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Helpers.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Mvc.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Optimization.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Razor.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Deployment.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Razor.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\WebGrease.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Helpers.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Mvc.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Optimization.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Razor.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Deployment.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Razor.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Newtonsoft.Json.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Antlr3.Runtime.pdb
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Logging.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Tokens.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.AssemblyReference.cache
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.CoreCompileInputs.cache
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.CopyComplete
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.dll
+D:\MVC_Project\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.pdb
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.dll.config
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Single_sign_on_with_azureAsp.netMvc.pdb
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.exe
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.exe.config
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csc.rsp
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.exe
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.exe.config
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\csi.rsp
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.AppContext.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Collections.Immutable.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Console.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Globalization.Calendars.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.Compression.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.FileSystem.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Net.Http.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Net.Sockets.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.ValueTuple.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XPath.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.exe
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.exe.config
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\vbc.rsp
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\VBCSCompiler.exe
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\roslyn\VBCSCompiler.exe.config
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Antlr3.Runtime.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Logging.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Newtonsoft.Json.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Owin.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Helpers.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Mvc.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Optimization.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Razor.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Deployment.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Razor.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\WebGrease.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Helpers.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Mvc.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Optimization.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.Razor.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Deployment.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.Web.WebPages.Razor.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Newtonsoft.Json.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Antlr3.Runtime.pdb
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Logging.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.AssemblyReference.cache
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.CoreCompileInputs.cache
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.csproj.CopyComplete
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.dll
+D:\Shared Supriya\SinglesignOn\Single_sign_on_with_azureAsp.netMvc\Single_sign_on_with_azureAsp.netMvc\obj\Debug\Single_sign_on_with_azureAsp.netMvc.pdb
